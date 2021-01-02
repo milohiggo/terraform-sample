@@ -14,7 +14,7 @@ resource "aws_instance" "example" {
   instance_type = "t2.micro"
 
   tags = {
-    Name = "EC2-US-EAST-2-01"
+    Name = "EC2-US-EAST-2-01-01"
   }
 }
 
